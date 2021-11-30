@@ -7,7 +7,7 @@ import torch
 if __name__ == '__main__':
 
     # 构造测试及验证数据迭代器
-    batch_size = 32
+    batch_size = 16
     train_path = 'E:\\yan0\\bishe_test\\Test'
     val_path = 'E:\\yan0\\bishe_test\\Val'
     datatype = 'CNN_input'
